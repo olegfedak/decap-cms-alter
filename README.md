@@ -2,7 +2,8 @@
 This package is built on top of the [forked Decap CMS](https://github.com/olegfedak/decap-cms).
 As a new version of Decap interface is being implemented, I would like to preserve the existing user experience.
 
-![](screenshot.png)
+![](screenshots/decap-cms-alter-screnhot.png)
+![](screenshots/decap-cms-alter-screnhot-2.png)
 
 ## General changes
 1. Optimized for the mobile screens:
@@ -34,4 +35,7 @@ For the testing include the link into your `admin/index.html` instead of the off
 [Official Install Decap CMS](https://decapcms.org/docs/install-decap-cms/)
 
 ## Versions
+Currently are tested on v3.1.10
+
+## Screenshots
 Currently are tested on v3.1.10
