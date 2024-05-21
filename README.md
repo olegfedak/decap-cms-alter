@@ -36,6 +36,3 @@ For the testing include the link into your `admin/index.html` instead of the off
 
 ## Versions
 Currently are tested on v3.1.10
-
-## Screenshots
-Currently are tested on v3.1.10
