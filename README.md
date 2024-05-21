@@ -14,7 +14,7 @@ This package is built on top of the [forked Decap CMS](https://github.com/olegfe
 3. Minor visual design updates to interface elements.
 
 ## Just try it
-For the testing include the link into your `admin/index.html` instead of the official:
+For the testing include the link `https://olegfedak.github.io/decap-cms-alter/decap-cms.js` into your `admin/index.html` instead of the official one:
 
 ```html
 <!DOCTYPE html>
