@@ -1,18 +1,20 @@
 # Alternative Decap CMS Package
-This package is built on top of the [forked Decap CMS](https://github.com/olegfedak/decap-cms). 
+This package is built on top of the [forked Decap CMS](https://github.com/olegfedak/decap-cms).
 As a new version of Decap interface is being implemented, I would like to preserve the existing user experience.
+
+![](screenshot.png)
 
 ## General changes
 1. Optimized for the mobile screens:
     - Content page
     - Editor
     - Workflow
-    - Media 
+    - Media
 2. Widgets are displayed in a single view.
 3. Minor visual design updates to interface elements.
 
 ## Just try it
-For the testing include the link into your `admin/index.html` instead of the official: 
+For the testing include the link into your `admin/index.html` instead of the official:
 
 ```html
 <!DOCTYPE html>
@@ -31,5 +33,5 @@ For the testing include the link into your `admin/index.html` instead of the off
 ```
 [Official Install Decap CMS](https://decapcms.org/docs/install-decap-cms/)
 
-## Versions 
+## Versions
 Currently are tested on v3.1.10
