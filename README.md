@@ -11,7 +11,7 @@ This package is built on top of the [forked Decap CMS](https://github.com/olegfe
 4. The CMS accent color can be customized.
 
 ## Just try it
-For the testing include the link `https://olegfedak.github.io/decap-cms-alter/decap-cms.js` into your `admin/index.html` instead of the official one. Or, you can download this package to your project/admin folder and then linked.
+For the testing include the link `https://unpkg.com/decap-cms-alter@^3.1.11/dist/decap-cms.js` into your `admin/index.html` instead of the official one. Or, you can download this package to your project's admin folder and then link to it.
 
 ```html
 <!DOCTYPE html>
@@ -23,12 +23,11 @@ For the testing include the link `https://olegfedak.github.io/decap-cms-alter/de
     <title>Content Manager</title>
   </head>
   <body>
-    <!-- <script src="https://unpkg.com/decap-cms@^3.1.10/dist/decap-cms.js"></script> -->
-    <script src="https://olegfedak.github.io/decap-cms-alter/decap-cms.js"></script>
+    <!-- <script src="https://unpkg.com/decap-cms@^3.1.11/dist/decap-cms.js"></script> -->
+    <script src="https://unpkg.com/decap-cms-alter@^3.1.11/dist/decap-cms.js"></script>
   </body>
 </html>
 ```
-
 
 ## Your own ccent color
 Add the color to the head of `admin/index.html` in `HEX` format. For example:
@@ -46,7 +45,7 @@ Note: `19` in `--accent-light` is the alpha value. `!important` must be. This ap
 
 ## Next ToDo
 - Dark Mode
-- Theme in `Config.yml`
+- Theme Config
 
 ## Resolved
 — [fix: clear field error in Editor after the field value is changed](https://github.com/decaporg/decap-cms/pull/7216)
