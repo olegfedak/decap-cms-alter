@@ -1,16 +1,19 @@
 {
   "name": "decap-cms-alter",
-  "description": "Alternative theme of Decap CMS.",
-  "version": "3.1.10",
+  "description": "Alternative Theme of Decap CMS.",
+  "version": "3.1.11",
   "repository": "https://github.com/olegfedak/decap-cms-alter",
-  "bugs": "https://github.com/olegfedak/decap-cms-alter/issues",
-  "main": "decap-cms.js",
+  "bugs": "https://github.com/olegfedak/decap-cms/issues",
+  "main": "dist/decap-cms.js",
   "keywords": [
     "cms",
     "decap",
     "content editing",
     "static site generators",
-    "jamstack"
+    "jamstack",
+    "alternative decap",
+    "git-based"
   ],
+  "contributor": "Oleg Fedak",
   "license": "MIT"
 }

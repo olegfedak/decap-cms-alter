@@ -55,4 +55,4 @@ Note: `19` in `--accent-light` is the alpha value. `!important` must be. This ap
 If you are not familiar with Decap CMS, please read the [official install guide](https://decapcms.org/docs/install-decap-cms/).
 
 ## Decap Version
-Currently are tested on v3.1.10
+Currently are tested on v3.1.11
