@@ -1,13 +1,13 @@
 # Alternative Decap CMS Package
 This package is built on top of the [forked Decap CMS](https://github.com/olegfedak/decap-cms). As a new version of the Decap interface is being implemented, I aim to preserve the existing user experience. This alternative version maintains the same Decap functionality and the classic old theme style with a few minor fixes.
 
-![](screenshots/decap-cms-alter-screnhot.png)
+![](/screenshots/decap-cms-alter-screenshot.png)
 
 <details>
   <summary> +2 screenshots</summary>
 
-  ![](screenshots/decap-cms-alter-screnhot-2.png)
-  ![](screenshots/decap-cms-alter-screnhot-3.png)
+  ![](screenshots/decap-cms-alter-screenshot-2.png)
+  ![](screenshots/decap-cms-alter-screenshot-3.png)
 </details>
 
 ## Theme In General
