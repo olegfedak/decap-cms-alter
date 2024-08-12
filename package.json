@@ -1,7 +1,7 @@
 {
   "name": "decap-cms-alter",
   "description": "Alternative Decap CMS.",
-  "version": "3.2.1",
+  "version": "3.2.2",
   "repository": "https://github.com/olegfedak/decap-cms-alter",
   "bugs": "https://github.com/olegfedak/decap-cms/issues",
   "main": "dist/decap-cms.js",
