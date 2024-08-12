@@ -25,7 +25,6 @@ For the testing include the link of the packege into your `admin/index.html` ins
 <!-- <body> -->
     <!-- <script src="https://unpkg.com/decap-cms@^3.1.11/dist/decap-cms.js"></script> -->
     <script src="https://unpkg.com/decap-cms-alter@^3.1.11/dist/decap-cms.js"></script>
-  </body>
 <!-- </body> -->
 ```
 
