@@ -1,5 +1,5 @@
 # Alternative Decap CMS Package
-This package is built on top of the [forked Decap CMS](https://github.com/olegfedak/decap-cms). As a new version of the Decap interface is being implemented, I aim to preserve the existing user experience. This alternative version maintains the same Decap functionality and the old theme with ui fixes of mine. 
+This package is built on top of the [forked Decap CMS](https://github.com/olegfedak/decap-cms). As a new version of the Decap interface is being implemented, I aim to preserve the existing user experience. This alternative version maintains the same Decap functionality and the old theme with ui fixes of mine.
 
 ![](/screenshots/decap-cms-alter-screenshot.png)
 
@@ -53,4 +53,4 @@ Note: `19` in `--accent-light` is the alpha value. `!important` must be. This ap
 If you are not familiar with Decap CMS, please read the [official install guide](https://decapcms.org/docs/install-decap-cms/).
 
 ## Decap Version
-Last tested on v3.2.1
+Last tested on v3.3.0
