@@ -1,6 +1,8 @@
 # Alternative Decap CMS Package
 This package is built on top of the [forked Decap CMS](https://github.com/olegfedak/decap-cms). As a new version of the Decap interface is being implemented, I aim to preserve the existing user experience. This alternative version maintains the same Decap functionality and the old theme with ui fixes of mine.
 
+→ [Demo](https://olegfedak.github.io/decap-cms-alter/)
+
 ![](/screenshots/decap-cms-alter-screenshot.png)
 
 <details>
